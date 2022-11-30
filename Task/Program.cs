@@ -7,6 +7,7 @@
 // ["Russia", "Denmark", "Kazan"] -> []
 
 // Methods
+// Методы
 string[] CreateArrayString(int size)
 {
     string[] array = new string[size];
